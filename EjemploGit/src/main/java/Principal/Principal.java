@@ -8,7 +8,10 @@ public class Principal {
 		
 		String miVariableString;
 		String miEnteroString;
-		
+
+
+		system.out.println ("ahora desde git");
+		string variable = "string definiida en github";
 		System.out.println("ahora en github");
 	}
 
